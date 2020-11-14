@@ -1,0 +1,10 @@
+C:\Users\alexp\Source\Repos\EZDH\EZDH\bin\Debug\EZDH.exe.config
+C:\Users\alexp\Source\Repos\EZDH\EZDH\bin\Debug\EZDH.exe
+C:\Users\alexp\Source\Repos\EZDH\EZDH\bin\Debug\EZDH.pdb
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.csprojAssemblyReference.cache
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.Form1.resources
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.Properties.Resources.resources
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.csproj.GenerateResource.cache
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.exe
+C:\Users\alexp\Source\Repos\EZDH\EZDH\obj\Debug\EZDH.pdb
